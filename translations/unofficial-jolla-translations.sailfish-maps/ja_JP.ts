@@ -1,0 +1,285 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.0">
+<context>
+    <name/>
+    <message>
+        <source>maps-ph-problems_downloading_content</source>
+        <translation>コンテンツのダウンロード中に問題が発生しました</translation>
+    </message>
+    <message>
+        <source>maps-me-add_to_favorites</source>
+        <translation>お気に入りに追加</translation>
+    </message>
+    <message>
+        <source>maps-me-remove_from_recent</source>
+        <translation>履歴から削除</translation>
+    </message>
+    <message>
+        <source>maps-bt-open_website</source>
+        <translation>ウェイブサイトを開く</translation>
+    </message>
+    <message>
+        <source>maps-la-notes</source>
+        <translation>ノート</translation>
+    </message>
+    <message>
+        <source>maps-la-route</source>
+        <translation>経路</translation>
+    </message>
+    <message>
+        <source>maps-la-long_press_header</source>
+        <translation>長押し</translation>
+    </message>
+    <message>
+        <source>maps-he-categories</source>
+        <translation>カテゴリー</translation>
+    </message>
+    <message>
+        <source>maps-la-change_image</source>
+        <translation>画像を変更</translation>
+    </message>
+    <message>
+        <source>maps-me-new_search</source>
+        <translation>新規検索</translation>
+    </message>
+    <message>
+        <source>maps-he-whats_near</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-unit_min</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-unit_yds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-user_notes</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-accept_terms</source>
+        <translation>規約に同意</translation>
+    </message>
+    <message>
+        <source>maps-la-turn_on_gps_positioning_to_see_your_location</source>
+        <translation>位置情報がオフになっています。「システム設定」-「位置情報」を見てください</translation>
+    </message>
+    <message>
+        <source>maps-la-location_name</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-car</source>
+        <translation>車</translation>
+    </message>
+    <message>
+        <source>maps-la-yds</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-foot</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-edit</source>
+        <translation>編集</translation>
+    </message>
+    <message>
+        <source>maps-me-save</source>
+        <translation>保存</translation>
+    </message>
+    <message>
+        <source>maps-la-ahoy</source>
+        <translation>こんにちは。マップを探検するには左にフリックしてください</translation>
+    </message>
+    <message>
+        <source>maps-la-from</source>
+        <translation>出発地</translation>
+    </message>
+    <message>
+        <source>maps-bt-directions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-share</source>
+        <translation>共有</translation>
+    </message>
+    <message>
+        <source>maps-bt-whats_near</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-he-popular_places</source>
+        <translation>有名なプレイス</translation>
+    </message>
+    <message>
+        <source>maps-la-by</source>
+        <translation>経由</translation>
+    </message>
+    <message>
+        <source>maps-la-mi</source>
+        <translation>%1 mi</translation>
+    </message>
+    <message>
+        <source>maps-la-km</source>
+        <translation>%1 km</translation>
+    </message>
+    <message>
+        <source>maps-la-to</source>
+        <translation>目的地</translation>
+    </message>
+    <message>
+        <source>maps-la-single_tap_header</source>
+        <translation>シングルタップ</translation>
+    </message>
+    <message>
+        <source>maps-he-select_image</source>
+        <translation>画像を選択</translation>
+    </message>
+    <message>
+        <source>maps-bt-email</source>
+        <translation>Email</translation>
+    </message>
+    <message>
+        <source>maps-la-double_tap_header</source>
+        <translation>ダブルタップ</translation>
+    </message>
+    <message>
+        <source>maps-no-no_route_available</source>
+        <translation>おっと、経路が見つかりません</translation>
+    </message>
+    <message>
+        <source>maps-la-m</source>
+        <translation>%1 m</translation>
+    </message>
+    <message>
+        <source>maps-la-searching_location</source>
+        <translation>位置情報の取得を待っています</translation>
+    </message>
+    <message>
+        <source>maps-la-double_tap_text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-unknown_location</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-single_tap_text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-shortest</source>
+        <translation>最短</translation>
+    </message>
+    <message>
+        <source>maps-he-maps</source>
+        <translation>マップ</translation>
+    </message>
+    <message>
+        <source>maps-he-suggestions</source>
+        <translation>サジェスト</translation>
+    </message>
+    <message>
+        <source>maps-no-change_route_query</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-map_controls</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-long_press_text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-he-saved_places</source>
+        <translation>保存したプレイス</translation>
+    </message>
+    <message>
+        <source>maps-he-accept</source>
+        <translation>同意</translation>
+    </message>
+    <message>
+        <source>maps-la-got_it</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-delete</source>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>maps-me-fastest</source>
+        <translation>最速</translation>
+    </message>
+    <message>
+        <source>maps-la-unit_h</source>
+        <translation>時間</translation>
+    </message>
+    <message>
+        <source>maps-la-unit_m</source>
+        <translation>分</translation>
+    </message>
+    <message>
+        <source>maps-he-search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>maps-me-search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>maps-la-unit_km</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-unit_mi</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-reset_map</source>
+        <translation>地図をリセット</translation>
+    </message>
+    <message>
+        <source>maps-la-add_image</source>
+        <translation>画像を追加</translation>
+    </message>
+    <message>
+        <source>maps-ph-could_not_find_anything</source>
+        <translation>すみません。何も見つかりませんでした。</translation>
+    </message>
+    <message>
+        <source>maps-la-deleting</source>
+        <translation>削除しています</translation>
+    </message>
+    <message>
+        <source>maps-bt-call</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-la-removing</source>
+        <translation>削除しています</translation>
+    </message>
+    <message>
+        <source>maps-he-show_directions</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>maps-me-remove_from_favorites</source>
+        <translation>お気に入りから削除</translation>
+    </message>
+    <message>
+        <source>maps-ap-name</source>
+        <translation>マップ</translation>
+    </message>
+    <message>
+        <source>maps-ph-my_location</source>
+        <translation>自分の位置</translation>
+    </message>
+    <message>
+        <source>maps-he-results</source>
+        <translation>結果</translation>
+    </message>
+</context>
+</TS>

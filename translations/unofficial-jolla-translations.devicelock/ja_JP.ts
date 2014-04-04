@@ -1,0 +1,33 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.1">
+<context>
+    <name/>
+    <message>
+        <source>devicelock-la-devicelock_last_chance</source>
+        <translation>もし正しくないセキュリティコードをもう１回入力すると、デバイスが恒久的にロックされます</translation>
+    </message>
+    <message numerus="yes">
+        <source>settings_devicelock-la-devicelock_max_length_warning</source>
+        <translation><numerusform>セキュリティコードは%n桁以下でなければいけません</numerusform></translation>
+    </message>
+    <message>
+        <source>devicelock-he-locked</source>
+        <translation>ロックされています</translation>
+    </message>
+    <message>
+        <source>devicelock-la-devicelock_incorrect_lock_code</source>
+        <translation>セキュリティコードが正しくありません</translation>
+    </message>
+    <message>
+        <source>devicelock-he-permanently_locked</source>
+        <translation>恒久的にロックされています</translation>
+    </message>
+    <message>
+        <source>devicelock-bt-unlock</source>
+        <translation>ロック解除</translation>
+    </message>
+    <message>
+        <source>devicelock-he-final_chance</source>
+        <translation>最後の試行</translation>
+    </message>
+</context>
+</TS>

@@ -1,0 +1,89 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.1">
+<context>
+    <name/>
+    <message>
+        <source>lipstick-jolla-home-twitter-favourited</source>
+        <translation>%n がお気に入りに入れています</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-la-account-name</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-la-reply</source>
+        <translation>リプライ</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-la-twitter</source>
+        <translation>Twitter</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-error-fail-to-unretweet</source>
+        <translation>Retweetを削除中に問題が発生しました</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-error-fail-to-retweet</source>
+        <translation>リツイート中に問題が発生しました</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-la-unretweet</source>
+        <translation>リツイート取り消し</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-retweets-favourited-link</source>
+        <translation>%1 と %2</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-error-fail-to-favorite</source>
+        <translation>お気に入りに追加中に問題が発生しました</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-la-failed_to_post_tweet</source>
+        <translation>ツイートの投稿中に問題が発生しました</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-la-twitter_tweets</source>
+        <translation>ツイート</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-error-fail-to-reply</source>
+        <translation>返信中に問題が発生しました</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-la-new_twitter_tweets</source>
+        <translation>新規ツイート</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-la-reply-field</source>
+        <translation>返信 (%0)</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-la-select-account</source>
+        <translation>アカウントを選択</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-la-change-to-account</source>
+        <translation>%1 に変更</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-retweets</source>
+        <translation>%n がRetweetしています</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-la-retweet</source>
+        <translation>リツイート</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-me-go_to_twitter</source>
+        <translation>Twitterを開く</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-me-update_feed</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>lipstick-jolla-home-twitter-ph-write-reply</source>
+        <translation>返信する</translation>
+    </message>
+</context>
+</TS>

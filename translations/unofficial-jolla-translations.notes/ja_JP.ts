@@ -1,0 +1,49 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.1">
+<context>
+    <name/>
+    <message>
+        <source>notes-me-note-color</source>
+        <translation>ノートの色</translation>
+    </message>
+    <message>
+        <source>notes-la-move-to-top</source>
+        <translation>先頭へ移動</translation>
+    </message>
+    <message>
+        <source>notes-ph-empty-note</source>
+        <translation>ノートを書く...</translation>
+    </message>
+    <message>
+        <source>notes-me-delete-note</source>
+        <translation>ノートを削除</translation>
+    </message>
+    <message>
+        <source>notes-la-delete</source>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>notes-me-new-note</source>
+        <translation>新規ノート</translation>
+    </message>
+    <message>
+        <source>notes-la-write-note</source>
+        <translation>ノートを書く</translation>
+    </message>
+    <message>
+        <source>notes-ph-default-note-name</source>
+        <translation>ノート</translation>
+    </message>
+    <message>
+        <source>notes-me-share-note</source>
+        <translation>ノートを共有</translation>
+    </message>
+    <message>
+        <source>notes-la-deleting</source>
+        <translation>削除しています</translation>
+    </message>
+    <message>
+        <source>notes-de-name</source>
+        <translation>ノート</translation>
+    </message>
+</context>
+</TS>

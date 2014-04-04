@@ -1,0 +1,81 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.1">
+<context>
+    <name/>
+    <message>
+        <source>jolla_gallery_facebook-la-single-like-for-comment</source>
+        <translation>いいね！</translation>
+    </message>
+    <message>
+        <source>gallery-fb-la-one-friend-likes-this</source>
+        <translation>%1 がいいね！しました</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-write-comment-page</source>
+        <translation>コメントする</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-you-like-this</source>
+        <translation>あなたがいいね！しました</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-album-comment</source>
+        <translation>コメント</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-multiple-friend-like-this</source>
+        <translation>%1と%2と%3 その他がいいね！しました</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-ph-add-comment-page-ph-description</source>
+        <translation>コメントする</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-album_unlike</source>
+        <translation>いいね！を削除</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-album_like</source>
+        <translation>いいね！</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-facebook-bt-send-comment</source>
+        <translation>送信</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-me-create_ambience</source>
+        <translation>ambienceを作成</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-number-of-likes-for-comment</source>
+        <translation>いいね！</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-two-friend-likes-this</source>
+        <translation>%1 と %2 がいいね！しました</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-unnamed_photo</source>
+        <translation>無題</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-user_photos</source>
+        <translation>Facebook</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-you-and-multiple-friend-like-this</source>
+        <translation>あなた %1 と %2 その他がいいね！しました</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-album_photo_count</source>
+        <translation>%n 枚の写真</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-facebook-he-comments</source>
+        <translation>コメント</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_facebook-la-you-and-another-friend-likes-this</source>
+        <translation>あなたと %1 がいいね！しました</translation>
+    </message>
+</context>
+</TS>

@@ -1,0 +1,57 @@
+#############################################################
+#   Unofficial Japanese language pack for Jolla
+#   Takahiro HASHIMOTO <kenya888@gmail.com>
+#############################################################
+
+ Contents: 
+
+ 1. Prerequisite
+ 2. How to create rpm for Japanese translation
+ 3. How to create rpm for another language
+
+#############################################################
+1. Prerequisite
+#############################################################
+
+You need to setup Linux PC with capability of making rpm(rpmbuild).
+I confirm on Fedora 20 and Gentoo Linux (both are x86_64)
+
+ 
+#############################################################
+2. How to create rpm for Japanese translation
+#############################################################
+
+If you want to create Japanese language package, just run
+
+ sh createall.sh
+
+If you want to fetch the latest of latest ts files from Transifex, run
+
+ sh createall.sh -f
+
+You can find rpm/srpm packages in rpmbuild directroy
+
+#############################################################
+3. How to create rpm for another language
+#############################################################
+
+Tools are ready for creating package of another language with some preparation.
+ 
+First, prepare your lang setting file like the one in
+usr/share/jolla-supported-languages/ja.conf
+(i.e. usr/share/jolla-supported-languages/cs.conf (Czech))
+
+Second, prepare the spec file that create rpm for your language like
+rpm/unofficial-jolla-language-pack-ja.spec
+(i.e. rpm/unofficial-jolla-language-pack-cs (Czech))
+
+Are you ready? So set TSLANG variable and run, for example Czech
+
+  TSLANG=cs sh createall.sh -f
+
+Of cource ts files should be created on Transifex 
+"unofficial-jolla-translations" project.
+
+https://www.transifex.com/projects/p/unofficial-jolla-translations/
+
+If all are done, you can find the packages for your language on rpmbuild directory.

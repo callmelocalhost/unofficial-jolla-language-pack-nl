@@ -1,0 +1,45 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.1">
+<context>
+    <name/>
+    <message>
+        <source>jolla-gallery-ambience-la-ambience-name</source>
+        <translation>Ambience名</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-ambience-la-max-favorites-reached</source>
+        <translation>お気に入りのAmbienceの数が上限に達しました。追加するには古いお気に入りを削除してください。</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-ambience-me-set_ambience</source>
+        <translation>ambienceを設定</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-ambience-la-ringtone-volume</source>
+        <translation>着信音量</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-ambience-delete-ambience</source>
+        <translation>ambienceを削除しています</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-la-tones</source>
+        <translation>Ambience 着信音</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-ambience-la-help-text</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>jolla-gallery-ambience-me-remove_ambience</source>
+        <translation>ambienceを削除</translation>
+    </message>
+    <message>
+        <source>jolla-gallery-ambience-ph_write_name</source>
+        <translation>Ambience名</translation>
+    </message>
+    <message>
+        <source>jolla_gallery_ambience-he-title</source>
+        <translation>Ambience</translation>
+    </message>
+</context>
+</TS>

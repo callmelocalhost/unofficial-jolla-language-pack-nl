@@ -1,0 +1,29 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.1">
+<context>
+    <name/>
+    <message>
+        <source>signonui-bt-accept</source>
+        <translation>同意</translation>
+    </message>
+    <message>
+        <source>signonui-bt-cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>signonui-la-username</source>
+        <translation>ユーザー名</translation>
+    </message>
+    <message>
+        <source>signonui-ph-username</source>
+        <translation>ユーザー名を入力してください</translation>
+    </message>
+    <message>
+        <source>signonui-ph-password</source>
+        <translation>パスワードを入力してください</translation>
+    </message>
+    <message>
+        <source>signonui-la-password</source>
+        <translation>パスワード</translation>
+    </message>
+</context>
+</TS>

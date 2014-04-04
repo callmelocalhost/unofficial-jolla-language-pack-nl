@@ -1,0 +1,57 @@
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ja_JP" version="2.1">
+<context>
+    <name/>
+    <message>
+        <source>settings_bluetooth-va-visibility_off</source>
+        <translation>オフ</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-he-bluetooth</source>
+        <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-va-visibility_on</source>
+        <translation>オン</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-va-for_3_minutes</source>
+        <translation>3分間オンにする</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-va-visibility_on_with_time</source>
+        <translation>オン (%1)</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-va-for_15_minutes</source>
+        <translation>15分間オンにする</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-la-device-visibility</source>
+        <translation>検出可能</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-me-search-for-devices</source>
+        <translation>デバイスを検索</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-bluetooth</source>
+        <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-la-device_name</source>
+        <translation>デバイス名</translation>
+    </message>
+    <message>
+        <source>settings_networking-connectivity</source>
+        <translation>接続性</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-la-bluetooth</source>
+        <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <source>settings_bluetooth-ph-device_name</source>
+        <translation>デバイスのニックネーム</translation>
+    </message>
+</context>
+</TS>
