@@ -1,5 +1,5 @@
 Name:           unofficial-jolla-translations-nl
-Version:        0.3
+Version:        0.4
 Release:        1%{?dist}
 Summary:        Dutch translations of OS for Jolla
 Group:          System/Base
@@ -36,6 +36,9 @@ make DESTDIR=$RPM_BUILD_ROOT install
 
 
 %changelog
+* Sat Apr 12 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.4-1
+- Bring up to date with Sailfish 1.0.5.16 (Paarlampi)
+- Improvements on over 50% of the files, not gonna name them all;
 * Tue Apr 10 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.3-1
 - Fixes in sailfishsilica-qt5;
 - Improvements on lipstick-jolla-home, lipstick-jolla-home-facebook, sailfishsilica-qt5, contacts, jolla-email, settings-bluethooth, settings-accounts, gallery;
