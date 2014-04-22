@@ -10,6 +10,12 @@ Files build using https://build.merproject.org/package/show?package=unofficial-j
 
 Changelog
 ---------
+* Tue Apr 22 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.5.1-1
+  - Switch from nl to nl_NL
+* Sun Apr 20 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.5-1
+  - First complete translated and reviewed release.
+* Mon Apr 14 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.4.1-1
+  - Bugfix
 * Sat Apr 12 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.4-1
   - Bring up to date with Sailfish 1.0.5.16 (Paarlampi)
   - Improvements on over 50% of the files, not gonna name them all;
