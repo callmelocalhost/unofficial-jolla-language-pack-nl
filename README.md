@@ -10,6 +10,10 @@ Files build using https://build.merproject.org/package/show?package=unofficial-j
 
 Changelog
 ---------
+* Wed Jul 23 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.6.1-1
+  - Double check file names
+* Wed Jul 23 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.6-1
+  - New translation souces 1.0.7.x
 * Tue Apr 22 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.5.1-1
   - Switch from nl to nl_NL
 * Sun Apr 20 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.5-1
