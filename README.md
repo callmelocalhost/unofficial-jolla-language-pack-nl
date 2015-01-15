@@ -6,6 +6,7 @@ Unofficial Dutch language pack for Jolla
 Translation files collected using unofficial-jolla-language-pack-nl.
 
 Files build using https://build.merproject.org/package/show?package=unofficial-jolla-language-pack-nl&project=home%3Alocalhost
+Collecting using http://git.qtquick.me/?p=unofficial-jolla-language-pack-ja.git;a=blob;f=README;hb=HEAD
 
 
 Changelog
