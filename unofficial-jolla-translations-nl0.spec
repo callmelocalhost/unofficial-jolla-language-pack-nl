@@ -1,5 +1,5 @@
 Name:           unofficial-jolla-translations-nl
-Version:        0.8.2
+Version:        0.6.1
 Release:        1%{?dist}
 Summary:        Dutch translations of OS for Jolla
 Group:          System/Base
@@ -36,15 +36,6 @@ make DESTDIR=$RPM_BUILD_ROOT install
 
 
 %changelog
-* Sat Sep 25 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.8.2
-- Bugfixes;
-- Some more translated strings;
-* Sat Sep 12 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.8.1
-- Some more translated strings added
-* Sat Sep 12 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.8.0
-- New translation for v1.1.9.28
-* Fri Jan 15 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.7.0
-- New translation souces
 * Wed Jul 23 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.6.1-1
 - Double check file names
 * Wed Jul 23 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.6-1
