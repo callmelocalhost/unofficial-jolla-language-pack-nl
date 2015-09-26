@@ -11,6 +11,15 @@ Collecting using http://git.qtquick.me/?p=unofficial-jolla-language-pack-ja.git;
 
 Changelog
 ---------
+* Sat Sep 25 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.8.2
+  - Bugfixes;
+  - Some more translated strings;
+* Sat Sep 12 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.8.1
+  - Some more translated strings added
+* Sat Sep 12 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.8.0
+  - New translation for v1.1.9.28
+* Fri Jan 15 2015 Jarno de Wit <jarno@callmelocalhost.com> - 0.7.0
+  - New translation souces
 * Wed Jul 23 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.6.1-1
   - Double check file names
 * Wed Jul 23 2014 Jarno de Wit <jarno@callmelocalhost.com> - 0.6-1
